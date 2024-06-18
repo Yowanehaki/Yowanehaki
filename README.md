@@ -1,10 +1,10 @@
 # Nama Pengguna GitHub
 
-Selamat datang di profil GitHub saya! 👋 Saya adalah [nama Anda], seorang [profesi atau minat Anda], yang senang berkontribusi pada berbagai proyek terbuka dan berbagi pengetahuan dengan komunitas pengembang.
+Selamat datang di profil GitHub saya! 👋 Saya adalah Mulfi Hazwi, seorang Mahasiswa berfokus pada Web Developer, yang senang berkontribusi pada berbagai proyek terbuka dan berbagi pengetahuan dengan komunitas pengembang.
 
 ## Tentang Saya
 
-Saya adalah [keterangan singkat tentang diri Anda]. Saya memiliki minat khusus dalam [bidang spesifik], dan saya percaya bahwa kolaborasi terbuka adalah kunci untuk memajukan industri teknologi.
+Saya adalah Mahasiswa dari Teknik Informatika. Saya memiliki minat khusus dalam Fullstack Developer, dan saya percaya bahwa kolaborasi terbuka adalah kunci untuk memajukan industri teknologi.
 
 ## Proyek Utama
 
@@ -26,8 +26,8 @@ Saya telah berkontribusi pada beberapa proyek terbuka terbaru:
 
 Anda dapat menemukan saya di:
 
-- Email: [email@example.com](mailto:email@example.com)
-- LinkedIn: [Nama Anda](https://www.linkedin.com/in/username)
-- Twitter: [@username](https://twitter.com/username)
+- Email: [hazwiartaf@gmail.com](hazwiartaf@gmail.com)
+- LinkedIn: [Mulfi Hazwi](https://linkedin.com/mulfi-hazwi-artaf)
+- Twitter: [Que Sera Sera](https://twitter.com/yowanehaki04)
 
 Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan, saran, atau ingin berkolaborasi dalam proyek tertentu. Terima kasih telah mengunjungi profil saya!
