@@ -8,19 +8,11 @@ Saya adalah Mahasiswa dari Teknik Informatika. Saya memiliki minat khusus dalam 
 
 ## Proyek Utama
 
-Beberapa proyek yang saya banggakan:
+Beberapa Proyek yang telah saya lakukan/kontribusi :
 
-- **[Nama Proyek 1](link_proyek_1)**: Deskripsi singkat tentang proyek dan mengapa itu penting.
-- **[Nama Proyek 2](link_proyek_2)**: Deskripsi singkat tentang proyek dan mengapa itu penting.
-- **[Nama Proyek 3](link_proyek_3)**: Deskripsi singkat tentang proyek dan mengapa itu penting.
-
-## Kontribusi Terbaru
-
-Saya telah berkontribusi pada beberapa proyek terbuka terbaru:
-
-- [Nama Proyek 1](link_kontribusi_1)
-- [Nama Proyek 2](link_kontribusi_2)
-- [Nama Proyek 3](link_kontribusi_3)
+- **[Adventure Interactive Game](https://github.com/Yowanehaki/Tetap-Hidup-Adventure-Game-Interaktif.git)**: Deskripsi singkat tentang proyek dan mengapa itu penting.
+- **[Birthday Card](https://github.com/Yowanehaki/Card-Birthday.git)**: Deskripsi singkat tentang proyek dan mengapa itu penting.
+- **[Museum Web](https://github.com/Yowanehaki/Museum-Web.git)**: Deskripsi singkat tentang proyek dan mengapa itu penting.
 
 ## Kontak
 
