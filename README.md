@@ -1,8 +1,8 @@
-# Nama Pengguna GitHub
+## Introduce
 
 Selamat datang di profil GitHub saya! 👋 Saya adalah Mulfi Hazwi, seorang Mahasiswa berfokus pada Web Developer, yang senang berkontribusi pada berbagai proyek terbuka dan berbagi pengetahuan dengan komunitas pengembang.
 
-## Tentang Saya
+## About Me
 
 Saya adalah Mahasiswa dari Teknik Informatika. Saya memiliki minat khusus dalam Web Delevoper Antusiast, dan saya percaya bahwa kolaborasi terbuka adalah kunci untuk memajukan industri teknologi.
 
