@@ -29,19 +29,12 @@ Here are some of the projects I’ve worked on:
 </div>
 
 ## ✨ Find me on social media:
+You can reach out to me for collaborations, suggestions, or just a chat
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mulfi-hazwi-artaf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/yowanehaki04" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:hazwiartaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-
-## 📬 Contact Me
-
-You can reach out to me for collaborations, suggestions, or just a chat:
-
-- Email: [hazwiartaf@gmail.com](mailto:hazwiartaf@gmail.com)
-- LinkedIn: [Mulfi Hazwi](https://linkedin.com/mulfi-hazwi-artaf)
-- Twitter: [Que Sera Sera](https://twitter.com/yowanehaki04)
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or just want to chat about tech. 🚀
