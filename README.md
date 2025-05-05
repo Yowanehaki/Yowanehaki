@@ -23,8 +23,7 @@ Here are some of the projects I’ve worked on:
 ## 🏆 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yowanehaki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ywnhk" />
-  <br><br>
+
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yowanehaki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </div>
 
