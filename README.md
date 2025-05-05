@@ -1,25 +1,47 @@
-## Introduce
+<h2 align="start">Hi 👋, I'm Mulfi Hazwi</h2>
 
-Selamat datang di profil GitHub saya! 👋 Saya adalah Mulfi Hazwi, seorang Mahasiswa berfokus pada Web Developer, yang senang berkontribusi pada berbagai proyek terbuka dan berbagi pengetahuan dengan komunitas pengembang.
+<span>⚡ Web Developer Enthusiast | Mahasiswa Teknik Informatika</span><br>
+<span>🎯 Expertise: Web Development, Frontend & Backend, Open Source Contributions</span><br>
+<span>🏆 Interests: Fullstack Development, Game Development, Web Design</span><br>
+<span>🗡️ Problem Solver: Passionate about creating innovative web applications and contributing to open-source projects</span><br>
+<span>🔥 Current Learn: JavaScript, React.js, Node.js, Express</span>
 
-## About Me
+## 💻 My Tech Stack
 
-Saya adalah Mahasiswa dari Teknik Informatika. Saya memiliki minat khusus dalam Web Delevoper Antusiast, dan saya percaya bahwa kolaborasi terbuka adalah kunci untuk memajukan industri teknologi.
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,express,mysql,postgres,tailwind,flutter,docker,git)](https://skillicons.dev)
 
-## Proyek Utama
+## 🚀 Projects
 
-Beberapa Proyek yang telah saya lakukan/kontribusi :
+Here are some of the projects I’ve worked on:
 
-- **[Tetap Hidup:Adventure Interactive Game](https://github.com/Yowanehaki/Tetap-Hidup-Adventure-Game-Interaktif.git)**: Tetap Hidup Adventure Game is an adventure game with the goal of finding a miraculous potion that can cure the illness of the main character's family. The concept of this game is inspired by the film Black Mirror, where the player becomes an integral part of determining the course of the story. In this game, players are given the opportunity to decide the ending of the game.
-- **[Birthday Card](https://github.com/Yowanehaki/Card-Birthday.git)**: Birthday Card ialah ucapan untuk seseorang yang kita sayangi dalam bentuk web agar seseorang tersebut merasa spesial ketika kita menunjukannya ekspresi/rasa kita dalam birthday card ini.
-- **[Museum Web](https://github.com/Yowanehaki/Museum-Web.git)**: Pembuatan web Museum Indonesia bertujuan untuk memberitahu museum-museum yang ada di Indonesia agar dapat memperkenalkan Museum Indonesia ke seuluruh penujuru dunia.
+- **[Tetap Hidup: Adventure Interactive Game](https://github.com/Yowanehaki/Tetap-Hidup-Adventure-Game-Interaktif.git)**: A text-based adventure game where players control the fate of the protagonist by making decisions that shape the story. Inspired by the TV show *Black Mirror*.
+  
+- **[Birthday Card](https://github.com/Yowanehaki/Card-Birthday.git)**: A heartfelt digital birthday card that allows users to create custom greeting cards to wish loved ones a happy birthday.
 
-## Kontak
+- **[Museum Web](https://github.com/Yowanehaki/Museum-Web.git)**: A project aimed at showcasing and promoting the beauty and history of museums across Indonesia through an informative and interactive website.
 
-Anda dapat menghubungi saya di:
+## 🏆 GitHub Stats
 
-- Email: [hazwiartaf@gmail.com](hazwiartaf@gmail.com)
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Yowanehaki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mulfi Hazwi" />
+  <br><br>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yowanehaki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</div>
+
+## ✨ Find me on social media:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mulfi-hazwi-artaf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yowanehaki04" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:hazwiartaf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+## 📬 Contact Me
+
+You can reach out to me for collaborations, suggestions, or just a chat:
+
+- Email: [hazwiartaf@gmail.com](mailto:hazwiartaf@gmail.com)
 - LinkedIn: [Mulfi Hazwi](https://linkedin.com/mulfi-hazwi-artaf)
 - Twitter: [Que Sera Sera](https://twitter.com/yowanehaki04)
 
-Jangan ragu untuk menghubungi saya jika Anda memiliki pertanyaan, saran, atau ingin berkolaborasi dalam proyek tertentu. Terima kasih telah mengunjungi profil saya!
+Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate or just want to chat about tech. 🚀
