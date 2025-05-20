@@ -7,6 +7,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=Hi+There!+👋;I'm+Mulfi+Hazwi!" alt="Typing SVG" />
 </h1>
+<div align="center">
+  <img src="URL_BANNER_PILIHAN" width="100%" alt="Banner" />
+</div>
 
 <h3 align="center">Web Developer Enthusiast | Mahasiswa Teknik Informatika 💻</h3>
 
