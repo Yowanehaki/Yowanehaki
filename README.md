@@ -27,6 +27,19 @@ Here are some of the projects I’ve worked on:
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yowanehaki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </div>
 
+<div align="center">
+  <table style="border: 5px solid white; border-radius: 10px; padding: 5px;">
+    <tr>
+      <td style="padding: 10px; text-align: center;">
+        <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Yowanehaki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffd2&icon_color=00ffd2&text_color=FFFFFF" alt="GitHub Stats"/>
+      </td>
+      <td style="padding: 10px; text-align: center;">
+        <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yowanehaki&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffd2&text_color=FFFFFF&layout=compact" alt="Most Used Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## ✨ Find me on social media:
 You can reach out to me for collaborations, suggestions, or just a chat
 
