@@ -11,7 +11,7 @@
 <h3 align="center">Web Developer Enthusiast | Mahasiswa Teknik Informatika 💻</h3>
 
 <!-- Deskripsi Singkat -->
-<p align="center">
+<p align="justify">
   🎯 <strong>Expertise:</strong> Frontend & Backend Web Development, Open Source<br>
   🧠 <strong>Currently Learning:</strong> JavaScript, React.js, Node.js, Express<br>
   🕹️ <strong>Interests:</strong> Fullstack Dev, Game Dev, Web Design<br>
