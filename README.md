@@ -1,10 +1,23 @@
-<h2 align="start">Hi 👋, I'm Mulfi Hazwi</h2>
+<!-- Banner -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/40/ab/84/40ab8469396d0e76483b56812aad6c84.gif" width="100%" alt="banner" />
+</div>
 
-<span>⚡ Web Developer Enthusiast | Mahasiswa Teknik Informatika</span><br>
-<span>🎯 Expertise: Web Development, Frontend & Backend, Open Source Contributions</span><br>
-<span>🏆 Interests: Fullstack Development, Game Development, Web Design</span><br>
-<span>🗡️ Problem Solver: Passionate about creating innovative web applications and contributing to open-source projects</span><br>
-<span>🔥 Current Learn: JavaScript, React.js, Node.js, Express</span>
+<!-- Judul & Animasi -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=Hi+There!+👋;I'm+Mulfi+Hazwi!" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">Web Developer Enthusiast | Mahasiswa Teknik Informatika 💻</h3>
+
+<!-- Deskripsi Singkat -->
+<p align="center">
+  🎯 <strong>Expertise:</strong> Frontend & Backend Web Development, Open Source<br>
+  🧠 <strong>Currently Learning:</strong> JavaScript, React.js, Node.js, Express<br>
+  🕹️ <strong>Interests:</strong> Fullstack Dev, Game Dev, Web Design<br>
+  🧩 <strong>Fun Fact:</strong> Gue senang ngulik & nyari solusi dari masalah real-life lewat web apps.
+</p>
+
 
 ## 💻 My Tech Stack
 
