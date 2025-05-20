@@ -21,12 +21,6 @@ Here are some of the projects I’ve worked on:
 - **[Museum Web](https://github.com/Yowanehaki/Museum-Web.git)**: A project aimed at showcasing and promoting the beauty and history of museums across Indonesia through an informative and interactive website.
 
 ## 🏆 GitHub Stats
-
-<div align="center">
-
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yowanehaki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</div>
-
 <div align="center">
   <table style="border: 5px solid white; border-radius: 10px; padding: 5px;">
     <tr>
