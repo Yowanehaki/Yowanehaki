@@ -7,9 +7,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&lines=Hi+There!+👋;I'm+Mulfi+Hazwi!" alt="Typing SVG" />
 </h1>
+<!-- Banner Terminal Retro Style -->
 <div align="center">
-  <img src="URL_BANNER_PILIHAN" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/main/data/terminal.gif" alt="Terminal Retro Banner" width="100%" />
 </div>
+
 
 <h3 align="center">Web Developer Enthusiast | Mahasiswa Teknik Informatika 💻</h3>
 
