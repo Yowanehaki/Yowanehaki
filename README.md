@@ -8,7 +8,7 @@
 
 ## 💻 My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,next,react,vue,mysql,postgres,tailwind,python,cpp,dart,flutter,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,next,react,vue,mysql,postgres,tailwind,python,cpp,dart,flutter,figma,xampp,git)](https://skillicons.dev)
 
 ## 🚀 Projects
 
