@@ -17,7 +17,7 @@
   🎯 <strong>Expertise:</strong> Frontend & Backend Web Development, Open Source<br>
   🧠 <strong>Currently Learning:</strong> JavaScript, React.js, Node.js, Express<br>
   🕹️ <strong>Interests:</strong> Fullstack Dev, Game Dev, Web Design<br>
-  🧩 <strong>Fun Fact:</strong> Gue senang ngulik & nyari solusi dari masalah real-life lewat web apps.
+  🧩 <strong>Fun Fact:</strong> Saya senang ngulik & nyari solusi dari masalah real-life lewat web apps.
 </p>
 
 
